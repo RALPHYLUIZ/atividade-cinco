@@ -1,0 +1,7 @@
+body img{
+    position: absolute;
+    display: inline;
+    background-color: rgb(233, 237, 240);
+    width: 40px;
+    left: 100px;
+}
